@@ -1,0 +1,3 @@
+requests
+chrome-headless-browser
+qt4w
